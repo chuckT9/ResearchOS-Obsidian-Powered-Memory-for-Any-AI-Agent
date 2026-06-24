@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "ResearchOS-Obsidian-Powered-Memory-for-Any-AI-Agent: AI-Native Knowledge Operating System for Any Agent, Anyone"
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+authors:
+  - given-names: "Chuck"
+    family-names: "Tarantino"
+    orcid: "https://orcid.org/0009-0003-4650-6760"
+repository-code: "https://github.com/chuckT9/ResearchOS-Obsidian-Powered-Memory-for-Any-AI-Agent"
+license: "MIT"
+version: "1.0.0"
+date-released: "2026-06-23"
+keywords:
+  - obsidian
+  - AI agent memory
+  - AI agent knowledge base
+  - long-term memory
+  - personal knowledge management
+  - second brain
+  - markdown
+  - no-code
+  - beginner-friendly
+  - students
+  - researchers
+  - ChatGPT memory
+  - Claude memory
+  - Cursor memory
+  - knowledge management
+  - AI agent framework
+  - semantic dispatch
+  - memory bifurcation
+  - session memory
